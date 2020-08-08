@@ -1,12 +1,13 @@
 <link href="https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/style.css" rel="stylesheet"></link>
 
+### Hi there! 👋
 ![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/githubbanner.png)
 
 [![LinkedIn Hrishikesh Paul](https://img.shields.io/badge/hrishikeshpaul-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/hrishikeshpaul/)
 [![Resume Hrishikesh Paul](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing)
 [![Hrishikesh Paul Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://hrishikeshpaul.github.io)
 
-Welcome to my GitHub! 👋 I'm Paul, a Computer Science graduate from Indiana University Bloomington with an interest in Software Development, UX Design and Artificial Intelligence - and seeking exciting opportunities related to the same.
+Welcome to my GitHub! I'm Paul, a Computer Science graduate from Indiana University Bloomington with an interest in Software Development, UX Design and Artificial Intelligence - and seeking exciting opportunities related to the same.
 
 As an international student, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
 
