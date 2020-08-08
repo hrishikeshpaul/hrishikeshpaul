@@ -48,7 +48,7 @@ Building state of the art visualization tools for the Human BioMolecular Atlas P
 Currently seeking full time positions for software engineer, software development, ux engineer, web design roles.
 
 
-[![Hrishikesh Paul's github stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpaul)](https://github.com/anuraghazra/github-readme-stats)
+[![Hrishikesh Paul's github stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpaul&count_private=true)](https://github.com/hrishikeshpaul)
 
 
 <!--
