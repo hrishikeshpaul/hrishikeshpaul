@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-![Github Banner](./src/assets/githubbanner.png)
+![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/githubbanner.png)
 
 <p align='center'>
 <a href="https://hrishikeshpaul.github.io"><img height="30" src="src/assets/icons/portfolio.svg" class="icons" ></a>&nbsp;&nbsp;
