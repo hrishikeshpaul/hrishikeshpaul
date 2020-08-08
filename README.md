@@ -1,14 +1,33 @@
 <link href="style.css" rel="stylesheet"></link>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
+
+ul {
+    padding: 0;
+}
+
+a > img{
+    border-radius: 5px;
+}
+</style>
 
 ![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/githubbanner.png)
 
-<p align='center'>
-<a href="https://hrishikeshpaul.github.io"><img height="30" src="src/assets/icons/portfolio.svg" class="icons" ></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hrishikeshpaul/"><img height="30" src="src/assets/icons/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://angel.co/u/hrishikesh-paul"><img height="30" src="src/assets/icons/angel.svg"></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing"><img height="30" src="src/assets/icons/cv.svg"></a>
-</p>
-
+[![LinkedIn Hrishikesh Paul](https://img.shields.io/badge/hrishikeshpaul-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/hrishikeshpaul/)
+[![Resume Hrishikesh Paul](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing)
+[![Hrishikesh Paul Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://hrishikeshpaul.github.io)
 
 Welcome to my GitHub! 👋 I'm Paul, a Computer Science graduate from Indiana University Bloomington with an interest in Software Development, UX Design and Artificial Intelligence - and seeking exciting opportunities related to the same.
 
