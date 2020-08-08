@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Paul, a Computer Science graduate from Indiana Univers
 
 As an international student, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
 
-<table>
+<table width="100%">
     <tr>
         <th> ⚡ Proficient in</th>
         <th> 👌 Previously used</th>
@@ -39,11 +39,11 @@ As an international student, I have repeatedly been exposed to new cultures and 
     </tr>
 </table>
 
-<h4>🔭 I’m currently working on </h4>
+<h3>🔭 I’m currently working on </h3>
 
-Building state of the art visualization tools for the Human BioMolecular Atlas Program (funded by the NIH) at Cyberinfrastructure for Network Science Center at Indiana University.
+Building state of the art visualization tools for the Human BioMolecular Atlas Program (funded by the NIH) at Cyberinfrastructure for Network Science Center at Indiana University using Angular 10 and Vega. 
 
-<h4>✨ Open to work </h4>
+<h3>✨ Open to work </h3>
 
 
 [![Hrishikesh Paul's github stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpaul)](https://github.com/anuraghazra/github-readme-stats)
