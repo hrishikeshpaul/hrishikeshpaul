@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/style.css" rel="stylesheet"></link>
 
 ![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/githubbanner.png)
 
