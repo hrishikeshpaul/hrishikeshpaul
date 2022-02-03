@@ -26,10 +26,11 @@ As an international student, I have repeatedly been exposed to new cultures and 
                 <li>Javascript/Typescript</li>
                 <li>Python</li>
                 <li>React</>
-                <li>Angular 10</li>
-                <li>Node</li>
+                <li>Angular 11</li>
+                <li>Node/Express</li>
                 <li>NoSQL (MongoDB)</li>
                 <li>HTML/CSS</li>
+                <li>CI/CD (Jenkins, GitHub Actions)</li>
             </ul>
         </td>
         <td>
@@ -38,6 +39,8 @@ As an international student, I have repeatedly been exposed to new cultures and 
                 <li>C/C++</li>
                 <li>Vue</li>
                 <li>Android</li>
+                <li>Kubernetes</li>
+                <li>Docker</li>
             </ul>
         </td>
     </tr>
@@ -48,8 +51,8 @@ As an international student, I have repeatedly been exposed to new cultures and 
 
 <h3>🔭 I’m currently working on </h3>
 
-1. *sailboat*: An application to make group planning simpler. Tech stack: React(TS), DotNet, C#, ChakraUI, OAuth
-2. *cta-maps*: A web app to track the Chicago Transit Authority busses and trains in real time. Tech stack: React(TS), Node, Sockets, Chakra UI, Google Maps
+1. **sailboat**: An application to make group planning simpler. Tech stack: React(TS), DotNet, C#, ChakraUI, OAuth
+2. **cta-maps**: A web app to track the Chicago Transit Authority busses and trains in real time. Tech stack: React(TS), Node, Sockets, Chakra UI, Google Maps
 
 <br />
 
