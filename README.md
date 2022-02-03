@@ -11,7 +11,7 @@
 [![Resume Hrishikesh Paul](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing)
 [![Hrishikesh Paul Portfolio](https://img.shields.io/badge/HP.IO-portfolio-orange?style=for-the-badge)](https://hrishikeshpaul.github.io)
 
-Welcome to my GitHub! I'm Paul, a Software Engineer (Frontend) at [Reputation](https://reputation.com/). I recently graduated from Indiana University with a Master of Science degree in Computer Science, with an interest in Software Development, UX Design and Artificial Intelligence!
+Welcome to my GitHub! I'm Paul, a Software Engineer (Frontend) at [Reputation](https://reputation.com/) based out of Chicago, Illnois. I recently graduated from Indiana University with a Master of Science degree in Computer Science, with an interest in Software Development, UX Design and Artificial Intelligence!
 
 As an international student, I have repeatedly been exposed to new cultures and diverse groups of people. This has made me able to quickly adapt to changes, and gain a broader perspective. I’m always curious about technology and enjoy learning. I am a detail oriented person and I keep my goals and tasks organized to maintain productivity.
 
