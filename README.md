@@ -1,7 +1,7 @@
 <link href="https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/style.css" rel="stylesheet"></link>
 
 ### Hi there! 👋
-![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/githubbanner.png)
+![Github Banner](https://github.com/hrishikeshpaul/hrishikeshpaul/blob/master/src/assets/banner.png)
 
 [![LinkedIn Hrishikesh Paul](https://img.shields.io/badge/hrishikeshpaul-linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/hrishikeshpaul/)
 [![Resume Hrishikesh Paul](https://img.shields.io/badge/paul-resume-green?style=for-the-badge)](https://drive.google.com/file/d/1uhexasJsa_7s_jEDtRe07bC52p2QEZa5/view?usp=sharing)
