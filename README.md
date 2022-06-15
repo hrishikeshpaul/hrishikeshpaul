@@ -54,7 +54,7 @@ As an international student, I have repeatedly been exposed to new cultures and 
 1. **sailboat**: An application to make group planning simpler. Tech stack: React(TS), DotNet, C#, ChakraUI, OAuth
 2. **cta-maps**: A web app to track the Chicago Transit Authority busses and trains in real time. Tech stack: React(TS), Node, Sockets, Chakra UI, Google Maps
 
-<br />
+
 
 <!-- <h3>✨ Open to work </h3> -->
 
@@ -64,6 +64,12 @@ As an international student, I have repeatedly been exposed to new cultures and 
 <!-- [![Hrishikesh Paul's github stats](https://github-readme-stats.vercel.app/api?username=hrishikeshpaul&count_private=true&theme=react)](https://github.com/hrishikeshpaul)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshpaul&exclude_repo=music-sheet-recognizer-backend,padding-oracle-attack,bsqli-webgoat,IJK-Game,horizon-detection,invoicerecognition,pos-tagger,noq,music-sheet-recognizer-frontend,reverse_image_search&count_private=true&theme=react&hide=csharp&layout=compact)](https://github.com/hrihikeshpaul/) -->
+
+#### Open Source Contribution
+
+- Opened Issue [#5554](https://github.com/chakra-ui/chakra-ui/issues/5554) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+
+<br />
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hrishikeshpaul&count_private=true&theme=react" width="50%" />
