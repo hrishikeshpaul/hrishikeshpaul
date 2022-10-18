@@ -52,7 +52,7 @@ As an international student, I have repeatedly been exposed to new cultures and 
 <h3>🔭 I’m currently working on </h3>
 
 1. **sailboat**: An application to make group planning simpler. Tech stack: React(TS), DotNet, C#, ChakraUI, OAuth
-2. **cta-maps**: A web app to track the Chicago Transit Authority busses and trains in real time. Tech stack: React(TS), Node, Sockets, Chakra UI, Google Maps
+2. **trackCTA**: A web app to track the Chicago Transit Authority busses and trains in real time. Tech stack: React(TS), Node, Sockets, Chakra UI, Google Maps
 
 
 
